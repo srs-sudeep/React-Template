@@ -1,0 +1,7 @@
+// degit.json
+// [
+//   {
+//     "action": "remove",
+//     "files": ["LICENSE"]
+//   }
+// ]
